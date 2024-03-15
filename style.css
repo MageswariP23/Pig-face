@@ -1,0 +1,92 @@
+
+
+.face{
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    background-color: rgb(250, 138, 185);
+    margin-top: 5%;
+    margin-left: 38%;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    position: relative;
+    padding-top: 5%;
+
+}
+.ears{
+    display: flex;
+    padding-right: 5%;
+    padding: auto;
+    margin-top: -35%;
+    justify-content: space-evenly;
+    padding-left: 470px;
+    padding-right: 400px;
+
+}
+.lear{
+    height: 90px;
+    width: 110px;
+    background-color: rgb(250, 138, 185);
+    border-radius: 50px 50px 0px 0px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    
+}
+.rear{
+    height: 90px;
+    width: 110px;
+    background-color: rgb(250, 138, 185);
+    border-radius: 50px 50px 0px 0px;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+.eyes{
+    display: flex;
+    justify-content: space-evenly;
+    padding:auto;
+    padding-top: 20%;
+
+}
+
+.leye,.reye{
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    background:white;
+    padding: auto;  
+    
+}
+.ileye,.ireye{
+    border-radius: 50%;
+    height: 35px;
+    width: 35px;
+    background: black;
+    margin-left: 20%;
+    margin-top: 25%;
+    justify-content: space-evenly;
+}
+.nose{
+    background: red;
+    height: 70px;
+    width: 150px;
+    border-radius: 50px;
+    justify-content: space-evenly;
+    margin: auto;
+    margin-top: 30%;
+    display: flex;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+}
+.no1,.no2{
+    height: 30px;
+    width: 40px;
+    border-radius: 50px;
+    background: black;
+    margin-top: 10%;
+
+}
+
